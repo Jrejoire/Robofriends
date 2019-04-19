@@ -1,3 +1,8 @@
+A simple React app created while following the Udemy course by Andrei Neagoie.
+https://www.udemy.com/the-complete-web-developer-zero-to-mastery/
+
+-----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
